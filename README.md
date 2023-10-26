@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hola, mi nombre es Marc 👋
 
-<!--
-**2a-MarcPaloma/2a-MarcPaloma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## studying:
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cev.com%2F&psig=AOvVaw2uxyRty_lbvwJg4MEeAMBk&ust=1698417135927000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODq1ob3k4IDFQAAAAAdAAAAABAD"
 
-Here are some ideas to get you started:
+## And here there are some of the games that I usually play to in my spare time:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%">
+  <tr>
+  <td>
+	<a href="https://www.leagueoflegends.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
+	</a>
+	</td>
+  <td>
+	<a href="https://www.labyrinthinegame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+	<a href="https://pokemonmasters-game.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+	</a>
+	</td>
+	<td>
+	<a href="https://disneymirrorverse.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	</a>
+	</td>
+	</td>
+    </tr>
+    <tr>
+    <td>
+	<a href="https://www.devourgame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+	</a>
+	</td>
+	<td>
+	<a href="https://kineticgames.co.uk/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	</a>
+  </tr>
+</table>
