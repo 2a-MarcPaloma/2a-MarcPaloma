@@ -1,45 +1,20 @@
-# Hola, mi nombre es Marc 👋
+<h1 align="center">Hi 👋, I'm Marc Paloma</h1>
+<h3 align="center">3D designer, animator, Game Designer</h3>
 
-## studying:
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cev.com%2F&psig=AOvVaw2uxyRty_lbvwJg4MEeAMBk&ust=1698417135927000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODq1ob3k4IDFQAAAAAdAAAAABAD"
+- 🔭 I’m currently working on **an ad animation**
 
-## And here there are some of the games that I usually play to in my spare time:
+- 🌱 I’m currently learning **blender**
 
-<table style="width:100%">
-  <tr>
-  <td>
-	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
-	</a>
-	</td>
-  <td>
-	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
-	</a>
-	</td>
-  </tr>
-  <tr>
-  <td>
-	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
-	</a>
-	</td>
-	</td>
-    </tr>
-    <tr>
-    <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
-	</a>
-  </tr>
-</table>
+- 👯 I’m looking to collaborate on **ubisoft games**
+
+- 📫 How to reach me **Marc Paloma**
+
+- ⚡ Fun fact **I can roll my toungue**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
