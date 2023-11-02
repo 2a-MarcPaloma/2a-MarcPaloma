@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I can roll my toungue**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me trough instagram: @marc_paloma58</h3>
 <p align="left">
 </p>
 
