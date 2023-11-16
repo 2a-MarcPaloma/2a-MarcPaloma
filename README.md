@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marc Paloma</h1>
 <h3 align="center">3D designer, animator, Game Designer</h3>
-<h3 align="Hola me llamo Marc y soy un estudiante que en un futuro le gustaria dedicarse o a animacion o Game Design</h3>
+<h3 align="center">Hola me llamo Marc y soy un estudiante que en un futuro le gustaria dedicarse o a animacion o Game Design</h3>
 - 🔭 I’m currently working on **an ad animation**
 
 - 🌱 I’m currently learning **blender**
